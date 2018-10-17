@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewApplication</string>
+    <string name="transotopmae_picture">transitionnamepicture</string>
+    <string name="username_card">Fernando</string>
+</resources>
